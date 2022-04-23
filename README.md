@@ -1,4 +1,4 @@
-### Hi there 👋
+### 성장하는 개발자 정현진입니다 !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhin3283&show_icons=true&theme=radical)
 
