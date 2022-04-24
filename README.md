@@ -1,5 +1,9 @@
 ### 성장하는 개발자 정현진입니다 !
 
+## Stack
+
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhin3283&show_icons=true&theme=radical)
 
 <!--
