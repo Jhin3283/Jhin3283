@@ -2,7 +2,10 @@
 
 ## Stack
 
-<img alt="JavaScript" src ="https://img.shields.io/badge/Stack-JavaScript-brightgreen"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/Stack-JavaScript-brightgreen"/> 
+<img alt="node.js" src ="https://img.shields.io/badge/node.js-yellowgreen"/>
+<img alt="express" src ="https://img.shields.io/badge/express-blueviolet"/>
+<img alt="MySQL" src ="https://img.shields.io/badge/MySQL-important"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhin3283&show_icons=true&theme=radical)
 
