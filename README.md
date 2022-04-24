@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON Web Tokens&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 
-🔥🔥🔥 Studying... <img src="https://img.shiels.io/badge/Typescript-#3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shiels.io/badge/NestJs-#E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
+🔥🔥🔥 Studying... <img src="https://img.shiels.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shiels.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhin3283&show_icons=true&theme=radical)
 
