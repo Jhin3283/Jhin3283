@@ -12,7 +12,8 @@
 
 <!-- 🔭 I’m currently working on .. -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhin3283&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhin3283&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=jhin3283&show_icons=true">
 
 <!--
 **Jhin3283/Jhin3283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
