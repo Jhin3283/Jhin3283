@@ -13,7 +13,7 @@
 </div> <br>
 <!-- 🔭 I’m currently working on .. -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhin3283&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhin3283&layout=compact"> <br/><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=jhin3283&show_icons=true">
 
 <!--
