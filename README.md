@@ -13,9 +13,10 @@
 🔥🔥🔥 Studying... <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/> 
 </div> <br>
 <!-- 🔭 I’m currently working on .. -->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhin3283&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhin3283&count_private=true&show_icons=true&theme=dark) <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhin3283&count_private=true&show_icons=true&theme=dark) <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhin3283&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br/>
   
 <!--
 **Jhin3283/Jhin3283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
