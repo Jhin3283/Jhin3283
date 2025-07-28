@@ -13,9 +13,6 @@
 🔥🔥🔥 Studying &nbsp;&nbsp;<img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/> 
 </div> <br>
 <!-- 🔭 I’m currently working on .. -->
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhin3283&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) <br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhin3283&count_private=true&show_icons=true&theme=dark) <br/>
 
   
 <!--
